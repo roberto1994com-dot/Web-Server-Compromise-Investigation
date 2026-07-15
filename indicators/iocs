@@ -1,0 +1,19 @@
+# Indicators of Compromise
+
+This file summarizes the observable indicators and suspicious behaviors identified during the web server compromise investigation.
+
+| Indicator | Type | Security relevance |
+|---|---|---|
+| Repeated administrator login attempts | Authentication activity | Possible brute-force attack |
+| Successful login using a default password | Credential weakness | Initial unauthorized access |
+| Unauthorized source-code modification | File or application change | Website compromise |
+| Injected JavaScript | Malicious code | Malware delivery mechanism |
+| Unexpected executable download | Suspicious file activity | Potential malware payload |
+| DNS request to an unknown domain | Network indicator | Malicious redirection |
+| HTTP request to an attacker-controlled server | Network indicator | External malicious communication |
+| Administrator password changed unexpectedly | Account activity | Legitimate administrator lockout |
+| Degraded performance after file execution | Host behavior | Possible malware infection |
+
+## Investigation Notes
+
+The available scenario did not provide concrete IP addresses, domain names, file hashes, filenames, or packet-capture artifacts. Therefore, this repository documents behavioral indicators rather than inventing specific technical indicators.
