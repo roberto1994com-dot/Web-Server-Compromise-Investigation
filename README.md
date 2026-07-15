@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-Network_Analysis-blue?logo=python)
-![Cybersecurity](httpsimg.shields.iobadgeCybersecurity-Incident_Response-darkgreen)
-![Status](httpsimg.shields.iobadgeStatus-Completed-success)
-![License](httpsimg.shields.iobadgeLicense-MIT-yellow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Incident_Response-darkgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Web Server Compromise Investigation
 
